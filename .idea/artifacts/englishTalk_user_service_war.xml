@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="englishTalk-user-service:war">
+    <output-path>$PROJECT_DIR$/englishTalk-user-service/target</output-path>
+    <root id="archive" name="englishTalk-user-service.war">
+      <element id="artifact" artifact-name="englishTalk-user-service:war exploded" />
+    </root>
+  </artifact>
+</component>

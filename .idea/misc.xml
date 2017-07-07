@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin-api" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-book" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-book-api" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-book-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-job" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-member" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-member-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-pc-web" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-user" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-user-api" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-web" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/englishTalk-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-book/pom.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-member/pom.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-user/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">

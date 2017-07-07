@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="englishTalk-admin:war">
+    <output-path>$PROJECT_DIR$/englishTalk-admin/target</output-path>
+    <root id="archive" name="englishTalk-admin.war">
+      <element id="artifact" artifact-name="englishTalk-admin:war exploded" />
+    </root>
+  </artifact>
+</component>
