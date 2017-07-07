@@ -1,13 +1,10 @@
-package com.english.rockGod.user.service.util;
+package com.english.rockGod.admin.service.util;
 
 import com.google.common.collect.Lists;
 import org.springframework.util.CollectionUtils;
-import java.io.IOException;
-import java.io.Reader;
-
-
 
 import java.util.List;
+
 /**
  * Created by bingkun on 2017/7/2.
  */

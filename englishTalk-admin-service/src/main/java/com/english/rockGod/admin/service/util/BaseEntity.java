@@ -1,4 +1,4 @@
-package com.english.rockGod.user.service.util;
+package com.english.rockGod.admin.service.util;
 
 import java.util.Date;
 
