@@ -2,83 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e5df9d4-95db-4de0-adf5-caf04d67e376" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/service/TestService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/dao/ExampleDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/entity/TestEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/service/impl/TestServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/BaseDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/BaseDaoUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/BaseEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/Beans.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/EntityUtils.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-api/target/englishTalk-admin-api.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-api/target/englishTalk-admin-api/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-api/target/englishTalk-admin-api/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-api/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-service/target/englishTalk-admin-service.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-service/target/englishTalk-admin-service/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-service/target/englishTalk-admin-service/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-admin-service/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-api/target/englishTalk-book-api-1.0-SNAPSHOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-api/target/englishTalk-book-api-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-api/target/englishTalk-book-api-1.0-SNAPSHOT/WEB-INF/log4j.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-api/target/englishTalk-book-api-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-api/target/englishTalk-book-api-1.0-SNAPSHOT/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-api/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-service/target/englishTalk-book.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-service/target/englishTalk-book/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-service/target/englishTalk-book/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-book-service/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-job/target/englishTalk-job.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-job/target/englishTalk-job/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-job/target/englishTalk-job/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-job/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-member-service/target/englishTalk-member-service.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-member-service/target/englishTalk-member-service/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-member-service/target/englishTalk-member-service/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-member-service/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/config/spring/local/appcontext-aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/config/spring/local/appcontext-core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/config/spring/local/appcontext-session.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/config/spring/local/appcontext-aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/config/spring/local/appcontext-core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/config/spring/local/appcontext-session.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-io-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-core-2.5.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-databind-2.5.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-aop-4.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-beans-4.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-context-4.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-context-support-4.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-core-4.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-expression-4.2.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-api/target/classes/com/english/rockGod/user/api/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-api/target/englishTalk-user-api.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-api/target/englishTalk-user-api/WEB-INF/classes/com/english/rockGod/user/api/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-api/target/englishTalk-user-api/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-api/target/englishTalk-user-api/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-api/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-service/target/classes/com/english/rockGod/user/service/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-service/target/englishTalk-user-service.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-service/target/englishTalk-user-service/WEB-INF/classes/com/english/rockGod/user/service/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-service/target/englishTalk-user-service/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-service/target/englishTalk-user-service/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-user-service/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/GroupDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/dto/TestEntityDto.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/englishTalk_user_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/englishTalk_user_service_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/service/TestService.java" afterPath="$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/service/TestService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-user-service/englishTalk-user-service.iml" afterPath="$PROJECT_DIR$/englishTalk-user-service/englishTalk-user-service.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-user-service/pom.xml" afterPath="$PROJECT_DIR$/englishTalk-user-service/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/service/impl/TestServiceImpl.java" afterPath="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/service/impl/TestServiceImpl.java" />
     </list>
     <ignored path="magic-EnglishTalk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,16 +48,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-admin-api/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BaseDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/BaseDao.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,8 +61,28 @@
       <file leaf-file-name="TestService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/service/TestService.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestEntityDto.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/dto/TestEntityDto.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="28" />
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -148,8 +91,40 @@
       <file leaf-file-name="TestServiceImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/service/impl/TestServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanMappingService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanMappingServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupDataSource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/GroupDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -170,48 +145,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
               <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EntityUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/EntityUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Beans.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/Beans.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExampleDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/dao/ExampleDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appcontext-mvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/appcontext-mvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -249,6 +182,9 @@
         <option value="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/entity/TestEntity.java" />
         <option value="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/dao/ExampleDao.java" />
         <option value="$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/service/TestService.java" />
+        <option value="$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingService.java" />
+        <option value="$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/BeanMappingService.java" />
+        <option value="$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/GroupDataSource.java" />
         <option value="$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/service/impl/TestServiceImpl.java" />
       </list>
     </option>
@@ -635,6 +571,140 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-user-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-admin-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-admin-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-admin-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-admin-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -654,11 +724,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-admin-service\src\main\java\com\english\rockGod\admin\service\framework" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-user-service\src\main\java\com\english\rockGod\user\service\util" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\resources\mvc" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\resources\config\spring\local" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-user-api\src\main\java" />
-      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-user-service" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.web">
@@ -1302,12 +1372,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499432402748</updated>
-      <workItem from="1499432408582" duration="7017000" />
+      <workItem from="1499432408582" duration="7521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7017000" />
+    <option name="totallyTimeSpent" value="7521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1533,14 +1603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1679,19 +1741,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/service/TestService.java">
+    <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/dto/TestEntityDto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="28" />
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-user-api/src/main/java/com/english/rockGod/user/api/service/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/GroupDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/service/impl/TestServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="450">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

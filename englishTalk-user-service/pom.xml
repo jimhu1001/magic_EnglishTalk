@@ -27,6 +27,11 @@
             <artifactId>englishTalk-user-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>Magic-EnglishTalk</groupId>
+            <artifactId>englishTalk-admin-service</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>englishTalk-user-service</finalName>
