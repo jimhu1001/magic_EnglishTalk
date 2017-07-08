@@ -2,14 +2,19 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/englishTalk-admin-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/englishTalk-admin-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/englishTalk-book-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/englishTalk-book-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-book" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-book/englishTalk-book-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-book/englishTalk-book-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/englishTalk-job" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/englishTalk-member-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-member/englishTalk-member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-member/englishTalk-member-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/englishTalk-pc-web" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/englishTalk-user-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/englishTalk-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-user/englishTalk-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/englishTalk-user/englishTalk-user-service" charset="UTF-8" />
   </component>
 </project>

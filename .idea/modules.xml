@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/englishTalk-admin-api/englishTalk-admin-api.iml" filepath="$PROJECT_DIR$/englishTalk-admin-api/englishTalk-admin-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/englishTalk-admin-service/englishTalk-admin-service.iml" filepath="$PROJECT_DIR$/englishTalk-admin-service/englishTalk-admin-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/englishTalk-book-api/englishTalk-book-api.iml" filepath="$PROJECT_DIR$/englishTalk-book-api/englishTalk-book-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/englishTalk-book-service/englishTalk-book-service.iml" filepath="$PROJECT_DIR$/englishTalk-book-service/englishTalk-book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-admin/englishTalk-admin.iml" filepath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-api/englishTalk-admin-api.iml" filepath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-api/englishTalk-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/englishTalk-admin-service.iml" filepath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/englishTalk-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-book/englishTalk-book.iml" filepath="$PROJECT_DIR$/englishTalk-book/englishTalk-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-book/englishTalk-book-api/englishTalk-book-api.iml" filepath="$PROJECT_DIR$/englishTalk-book/englishTalk-book-api/englishTalk-book-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-book/englishTalk-book-service/englishTalk-book-service.iml" filepath="$PROJECT_DIR$/englishTalk-book/englishTalk-book-service/englishTalk-book-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/englishTalk-job/englishTalk-job.iml" filepath="$PROJECT_DIR$/englishTalk-job/englishTalk-job.iml" />
-      <module fileurl="file://$PROJECT_DIR$/englishTalk-member-service/englishTalk-member-service.iml" filepath="$PROJECT_DIR$/englishTalk-member-service/englishTalk-member-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-member/englishTalk-member.iml" filepath="$PROJECT_DIR$/englishTalk-member/englishTalk-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-member/englishTalk-member-api/englishTalk-member-api.iml" filepath="$PROJECT_DIR$/englishTalk-member/englishTalk-member-api/englishTalk-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-member/englishTalk-member-service/englishTalk-member-service.iml" filepath="$PROJECT_DIR$/englishTalk-member/englishTalk-member-service/englishTalk-member-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" filepath="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/englishTalk-user-api/englishTalk-user-api.iml" filepath="$PROJECT_DIR$/englishTalk-user-api/englishTalk-user-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/englishTalk-user-service/englishTalk-user-service.iml" filepath="$PROJECT_DIR$/englishTalk-user-service/englishTalk-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-user/englishTalk-user.iml" filepath="$PROJECT_DIR$/englishTalk-user/englishTalk-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-user/englishTalk-user-api/englishTalk-user-api.iml" filepath="$PROJECT_DIR$/englishTalk-user/englishTalk-user-api/englishTalk-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/englishTalk-user-service.iml" filepath="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/englishTalk-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/magic-EnglishTalk.iml" filepath="$PROJECT_DIR$/magic-EnglishTalk.iml" />
     </modules>
   </component>

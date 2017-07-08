@@ -22,29 +22,41 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="englishTalk-admin" />
         <module name="englishTalk-admin-api" />
         <module name="englishTalk-admin-service" />
         <module name="englishTalk-book-api" />
         <module name="englishTalk-book-service" />
         <module name="englishTalk-job" />
+        <module name="englishTalk-member" />
+        <module name="englishTalk-member-api" />
         <module name="englishTalk-member-service" />
         <module name="englishTalk-pc-web" />
+        <module name="englishTalk-user" />
         <module name="englishTalk-user-api" />
         <module name="englishTalk-user-service" />
       </profile>
+      <profile default="false" name="Annotation profile for englishTalk-book" enabled="true">
+        <sourceOutputDir name="englishTalk-book-service/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="englishTalk-book-service/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="englishTalk-book" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="englishTalk-admin" target="1.5" />
+      <module name="englishTalk-admin" target="1.8" />
       <module name="englishTalk-admin-api" target="1.8" />
       <module name="englishTalk-admin-service" target="1.8" />
-      <module name="englishTalk-book" target="1.5" />
+      <module name="englishTalk-book" target="1.8" />
       <module name="englishTalk-book-api" target="1.8" />
-      <module name="englishTalk-book-service" target="1.8" />
+      <module name="englishTalk-book-service" target="1.5" />
       <module name="englishTalk-job" target="1.8" />
-      <module name="englishTalk-member" target="1.5" />
+      <module name="englishTalk-member" target="1.8" />
+      <module name="englishTalk-member-api" target="1.8" />
       <module name="englishTalk-member-service" target="1.8" />
       <module name="englishTalk-pc-web" target="1.8" />
-      <module name="englishTalk-user" target="1.5" />
+      <module name="englishTalk-user" target="1.8" />
       <module name="englishTalk-user-api" target="1.8" />
       <module name="englishTalk-user-service" target="1.8" />
       <module name="englishTalk-web" target="1.5" />

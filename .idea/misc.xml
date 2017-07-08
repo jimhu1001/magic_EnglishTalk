@@ -5,18 +5,19 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin" />
-    <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin-api" />
-    <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-api" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service" />
     <file type="web" url="file://$PROJECT_DIR$/englishTalk-book" />
-    <file type="web" url="file://$PROJECT_DIR$/englishTalk-book-api" />
-    <file type="web" url="file://$PROJECT_DIR$/englishTalk-book-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-book/englishTalk-book-api" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-book/englishTalk-book-service" />
     <file type="web" url="file://$PROJECT_DIR$/englishTalk-job" />
     <file type="web" url="file://$PROJECT_DIR$/englishTalk-member" />
-    <file type="web" url="file://$PROJECT_DIR$/englishTalk-member-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-member/englishTalk-member-api" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-member/englishTalk-member-service" />
     <file type="web" url="file://$PROJECT_DIR$/englishTalk-pc-web" />
     <file type="web" url="file://$PROJECT_DIR$/englishTalk-user" />
-    <file type="web" url="file://$PROJECT_DIR$/englishTalk-user-api" />
-    <file type="web" url="file://$PROJECT_DIR$/englishTalk-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-user/englishTalk-user-api" />
+    <file type="web" url="file://$PROJECT_DIR$/englishTalk-user/englishTalk-user-service" />
     <file type="web" url="file://$PROJECT_DIR$/englishTalk-web" />
   </component>
   <component name="MavenProjectsManager">
@@ -27,8 +28,11 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/englishTalk-admin-service/pom.xml" />
         <option value="$PROJECT_DIR$/englishTalk-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-book-api/pom.xml" />
         <option value="$PROJECT_DIR$/englishTalk-book/pom.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-member-service/pom.xml" />
         <option value="$PROJECT_DIR$/englishTalk-member/pom.xml" />
         <option value="$PROJECT_DIR$/englishTalk-user/pom.xml" />
       </set>

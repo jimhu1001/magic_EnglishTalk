@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="englishTalk-user-api:war">
-    <output-path>$PROJECT_DIR$/englishTalk-user-api/target</output-path>
+    <output-path>$PROJECT_DIR$/englishTalk-user/englishTalk-user-api/target</output-path>
     <root id="archive" name="englishTalk-user-api.war">
       <element id="artifact" artifact-name="englishTalk-user-api:war exploded" />
     </root>

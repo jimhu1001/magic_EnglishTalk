@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="englishTalk-book-service:war">
-    <output-path>$PROJECT_DIR$/englishTalk-book-service/target</output-path>
+    <output-path>$PROJECT_DIR$/englishTalk-book/englishTalk-book-service/target</output-path>
     <root id="archive" name="englishTalk-book.war">
       <element id="artifact" artifact-name="englishTalk-book-service:war exploded" />
     </root>

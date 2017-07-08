@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="englishTalk-user-api:war exploded">
-    <output-path>$PROJECT_DIR$/englishTalk-user-api/target/englishTalk-user-api</output-path>
+    <output-path>$PROJECT_DIR$/englishTalk-user/englishTalk-user-api/target/englishTalk-user-api</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -8,7 +8,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/englishTalk-user-api/target/englishTalk-user-api/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/englishTalk-user/englishTalk-user-api/target/englishTalk-user-api/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="englishTalk-user-api/web/Web" />
     </root>
