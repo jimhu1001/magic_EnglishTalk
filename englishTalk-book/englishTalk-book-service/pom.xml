@@ -1,14 +1,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
     <parent>
-        <artifactId>Magic-EnglishTalk</artifactId>
-        <groupId>Magic-EnglishTalk</groupId>
+        <groupId>com.englishTalkBook</groupId>
+        <artifactId>englishTalk-book</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+
+
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>englishTalk-book</artifactId>
-    <packaging>war</packaging>
-    <name>englishTalk-book Maven Webapp</name>
+    <artifactId>englishTalk-book-service</artifactId>
+    <packaging>jar</packaging>
+    <name>englishTalk-book-service</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>

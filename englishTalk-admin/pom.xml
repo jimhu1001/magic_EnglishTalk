@@ -1,10 +1,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
     <parent>
         <artifactId>Magic-EnglishTalk</artifactId>
         <groupId>Magic-EnglishTalk</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+
+    <groupId>com.englishTalkAdmin</groupId>
+    <artifactId>englishTalk-admin</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
     <modules>
         <module>englishTalk-admin-api</module>
@@ -12,9 +17,8 @@
     </modules>
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>englishTalk-admin</artifactId>
-    <packaging>war</packaging>
-    <name>englishTalk-admin Maven Webapp</name>
+    <packaging>pom</packaging>
+    <name>englishTalk-admin</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>

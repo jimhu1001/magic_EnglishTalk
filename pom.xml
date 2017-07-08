@@ -12,14 +12,9 @@
         <module>englishTalk-job</module>
         <module>englishTalk-book</module>
         <module>englishTalk-user</module>
-        <module>englishTalk-member-service</module>
         <module>englishTalk-pc-web</module>
         <module>englishTalk-admin</module>
-        <module>englishTalk-user</module>
         <module>englishTalk-member</module>
-        <module>englishTalk-member-api</module>
-        <module>englishTalk-admin</module>
-        <module>englishTalk-book</module>
     </modules>
 
     <properties>
