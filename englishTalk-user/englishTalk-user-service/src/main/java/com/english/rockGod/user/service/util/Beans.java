@@ -1,4 +1,4 @@
-package com.english.rockGod.user.service.util;
+/*package com.english.rockGod.user.service.util;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
@@ -34,4 +34,4 @@ public class Beans implements ApplicationContextAware {
         }
         return bean;
     }
-}
+}*/

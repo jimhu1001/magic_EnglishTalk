@@ -1,3 +1,4 @@
+/*
 package com.english.rockGod.admin.service.util;
 
 import com.google.common.collect.Lists;
@@ -5,9 +6,11 @@ import org.springframework.util.CollectionUtils;
 
 import java.util.List;
 
+*/
 /**
  * Created by bingkun on 2017/7/2.
- */
+ *//*
+
 public class BaseDaoUtil {
 
     public static  <T extends BaseDao,F extends BaseEntity> void createOrUpdate(F entity,Class<T> dao){
@@ -20,14 +23,16 @@ public class BaseDaoUtil {
         }
     }
 
-    /**
+    */
+/**
      * |集合更新//
      *
      * @param oriList
      * @param curList
      * @param dao
      * @param <T>
-     */
+     *//*
+
     public static <T extends BaseDao, F extends BaseEntity> void updateList(List<F> oriList, List<F> curList, Class<T> dao) {
 
         if (CollectionUtils.isEmpty(oriList) && CollectionUtils.isEmpty(curList)) return;
@@ -61,7 +66,8 @@ public class BaseDaoUtil {
                 t.update(o);
             }
         }
-       /* curList.forEach(o->{
+       */
+/* curList.forEach(o->{
             if(o.getId()==0){
                 EntityUtils.init(o);
                 t.create(o);
@@ -69,17 +75,20 @@ public class BaseDaoUtil {
                 EntityUtils.update(o);
                 t.update(o);
             }
-        });*/
+        });*//*
+
         for (F o:curList){
             if(!curIds.contains(o.getId())){
                 t.delete(o);
             }
         }
-       /* oriList.forEach(o->{
+       */
+/* oriList.forEach(o->{
             if(!curIds.contains(o.getId())){
                 t.delete(o);
             }
-        });*/
+        });*//*
+
     }
 
 
@@ -95,13 +104,16 @@ public class BaseDaoUtil {
         }
     }
 
- /*   public void storedProcedures(){
+ */
+/*   public void storedProcedures(){
         Reader reader = Resources.getResourceAsReader("SqlMapConfig.xml");
         SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(reader);
         SqlSession session = sqlSessionFactory.openSession();
 
         //select a particular student  by  id
         Student student = (Student) session.selectOne("Student.callById", 3);
-    }*/
+    }*//*
+
 
 }
+*/

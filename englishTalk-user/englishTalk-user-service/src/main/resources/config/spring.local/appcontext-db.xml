@@ -5,35 +5,7 @@
 
 
 
-      <!-- <bean id="userDataSource" class="com.dianping.zebra.group.jdbc.GroupDataSource" init-method="init">
-              <property name="jdbcRef" value="amore" />
-              <property name="routerType" value="fail-over" />
-              <property name="minPoolSize" value="5" />
-              <property name="maxPoolSize" value="30" />
-              <property name="initialPoolSize" value="1" />
-              <property name="maxIdleTime" value="1800" />
-              <property name="idleConnectionTestPeriod" value="60" />
-              <property name="acquireRetryAttempts" value="3" />
-              <property name="acquireRetryDelay" value="300" />
-              <property name="maxStatements" value="0" />
-              <property name="maxStatementsPerConnection" value="100" />
-              <property name="numHelperThreads" value="6" />
-              <property name="maxAdministrativeTaskTime" value="5" />
-              <property name="preferredTestQuery" value="SELECT 1" />
-       </bean>
 
-
-
-
-       <bean id="userTransactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
-              <property name="dataSource" ref="userDataSource"/>
-       </bean>
-
-
--->
-
-       <alias name="bizDataSource" alias="userDataSource"/>
-       <alias name="bizTransactionManager" alias="userTransactionManager"/>
 
 
 </beans>

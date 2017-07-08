@@ -6,20 +6,5 @@
 
 
 
-       <bean id="userSqlSessionFactory" class="org.springframework.jdbc.datasource.DriverManagerDataSource" lazy-init="false">
-              <!--指定数据源-->
-              <property name="dataSource" ref="userDataSource"/>
-              <!--指定Mapper文件地址，需要改写-->
-              <property name="mapperLocations" value="classpath*:config/sqlmap/user/**/*.xml" />
-              <!--指定entity的package,需要改写-->
-              <property name="typeAliasesPackage" value="com.english.rockGod.user.service.entity" />
-       </bean> 
-
-       <tx:annotation-driven transaction-manager="userTransactionManager"/>
-
-       <bean class="com.dianping.zebra.dao.mybatis.ZebraMapperScannerConfigurer">
-              <property name="basePackage" value="com.english.rockGod.user.service.dao" />
-              <property name="sqlSessionFactoryBeanName" value="userSqlSessionFactory"/>
-       </bean>
 
 </beans>

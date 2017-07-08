@@ -1,12 +1,15 @@
+/*
 package com.english.rockGod.user.service.framework;
 
 import org.dozer.Mapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
+*/
 /**
  * Created by shenyoujun on 15/1/4.
- */
+ *//*
+
 public class BeanMappingServiceImpl implements BeanMappingService {
 
     @Autowired
@@ -24,3 +27,4 @@ public class BeanMappingServiceImpl implements BeanMappingService {
         }
     }
 }
+*/

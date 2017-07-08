@@ -1,3 +1,4 @@
+/*
 package com.englishTalk.user;
 
 import org.junit.runner.RunWith;
@@ -14,3 +15,4 @@ import org.springframework.transaction.annotation.Transactional;
 @Transactional
 public abstract class AbstractSpringContextTest {
 }
+*/

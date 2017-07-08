@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns="http://www.springframework.org/schema/beans" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+
+    <context:component-scan base-package="com.bingkun.haoduoke.admin.pc.controller"/>
+    <context:component-scan base-package="org.jeecgframework.poi.excel.view"/>
+
+    <bean id="beanNameViewResolver" class="org.springframework.web.servlet.view.BeanNameViewResolver">
+    </bean>
+
+    <!--<bean id="freemarkerConfig" class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">-->
+    <!--<property name="templateLoaderPath" value="/WEB-INF/pages/" />-->
+    <!--<property name="defaultEncoding" value="utf-8" />-->
+    <!--<property name="freemarkerSettings">-->
+    <!--<props>-->
+    <!--<prop key="template_update_delay">1</prop>-->
+    <!--<prop key="locale">zh_CN</prop>-->
+    <!--<prop key="datetime_format">yyyy-MM-dd</prop>-->
+    <!--<prop key="date_format">yyyy-MM-dd</prop>-->
+    <!--<prop key="number_format">#.##</prop>-->
+    <!--</props>-->
+    <!--</property>-->
+    <!--</bean>-->
+
+    <!--<bean class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">-->
+    <!--<property name="contentType" value="text/html; charset=UTF-8"/>-->
+    <!--<property name="cache" value="false"/>-->
+    <!--<property name="suffix" value=".ftl"/>-->
+    <!--</bean>-->
+
+    <bean id="templateLoader" class="de.neuland.jade4j.spring.template.SpringTemplateLoader">
+        <property name="basePath" value="/pages2/"/>
+    </bean>
+
+    <bean id="jadeConfiguration" class="de.neuland.jade4j.JadeConfiguration">
+        <property name="prettyPrint" value="false"/>
+        <property name="caching" value="true"/>
+        <property name="templateLoader" ref="templateLoader"/>
+    </bean>
+
+    <bean id="viewResolver" class="de.neuland.jade4j.spring.view.JadeViewResolver">
+        <property name="configuration" ref="jadeConfiguration"/>
+        <!-- rendering nice html formatted error pages for development -->
+        <property name="renderExceptions" value="true"/>
+    </bean>
+    <bean id="jasperReportResolver" class="org.springframework.web.servlet.view.XmlViewResolver">
+        <!-- <property name="url" value="/WEB-INF/jasper/report2.jasper"/> -->
+        <property name="order" value="0"/>
+        <property name="location" value="WEB-INF/jasper/jasper-defs.xml"/>
+    </bean>
+    <bean id="multipartResolver"
+          class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+
+        <!-- setting maximum upload size -->
+        <property name="maxUploadSize" value="20971520"/>
+
+    </bean>
+    <!--<bean id="jasperReportResolver" class="org.springframework.web.servlet.view.XmlViewResolver">-->
+        <!--&lt;!&ndash; <property name="url" value="/WEB-INF/jasper/report2.jasper"/> &ndash;&gt;-->
+        <!--<property name="order" value="0"/>-->
+        <!--<property name="location" value="../webapp/WEB-INF/jasper/jasper-defs.xml"/>-->
+    <!--</bean>-->
+    <!--<bean id="iReportView" class="com.bingkun.haoduoke.admin.biz.vo.ApplicationIReportView">-->
+        <!--&lt;!&ndash; <property name="url" value="/WEB-INF/jasper/report2.jasper"/> &ndash;&gt;-->
+        <!--<property name="reportDataKey" value="jrMainDataSource"/>-->
+    <!--</bean>-->
+    <mvc:annotation-driven>
+        <mvc:message-converters>
+            <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+                <property name="objectMapper" ref="objectMapper"/>
+            </bean>
+
+        </mvc:message-converters>
+    </mvc:annotation-driven>
+
+
+    <bean id="objectMapper" class="com.bingkun.haoduoke.admin.pc.factory.ObjectMapperFactory"
+          factory-method="getMapper"/>
+
+    <mvc:resources mapping="/lib/**" location="/lib/"/>
+
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <!--注册\登录\重置密码 页面-->
+            <mvc:exclude-mapping path="/login/"/>
+            <mvc:exclude-mapping path="/user/loginWeb"/>
+            <mvc:exclude-mapping path="/reset/"/>
+            <mvc:exclude-mapping path="/register/"/>
+            <mvc:exclude-mapping path="/login"/>
+            <mvc:exclude-mapping path="/reset"/>
+            <mvc:exclude-mapping path="/register"/>
+
+            <!--注册\登录\重置密码 需要用到的服务-->
+            <mvc:exclude-mapping path="/user/changePassword"/>
+            <mvc:exclude-mapping path="/user/register"/>
+            <mvc:exclude-mapping path="/user/checkMobile"/>
+            <mvc:exclude-mapping path="/user/sendVerifyCode"/>
+            <mvc:exclude-mapping path="/user/checkVerifyCode"/>
+            <mvc:exclude-mapping path="/user/checkAccount"/>
+            <mvc:exclude-mapping path="/user/login"/>
+            <mvc:exclude-mapping path="/user/getAttemptCount"/>
+            <mvc:exclude-mapping path="/region/load"/>
+            <!--<mvc:exclude-mapping path="/user/authorizationLogin"/>-->
+            <!--<mvc:exclude-mapping path="/user/switchBrand"/>-->
+
+
+            <!--后门-->
+            <mvc:exclude-mapping path="/user/testAuthority"/>
+            <mvc:exclude-mapping path="/user/loginTest"/>
+            <mvc:exclude-mapping path="/user/loginGo"/>
+            <mvc:exclude-mapping path="/user/backDoor"/>
+            <mvc:exclude-mapping path="/user/loginBackDoor"/>
+            <mvc:exclude-mapping path="/user/getCode"/>
+            <!--BI报表-->
+          <!--  <mvc:exclude-mapping path="/report/biReport"/>-->
+            <mvc:exclude-mapping path="/heartbeat"/>
+
+
+
+            <mvc:exclude-mapping path="/lib/**"/>
+
+            <bean class="com.bingkun.haoduoke.admin.pc.interceptor.UserContextInterceptor"/>
+        </mvc:interceptor>
+
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <mvc:exclude-mapping path="/lib/**"/>
+            <mvc:exclude-mapping path="/heartbeat"/>
+            <bean class="com.bingkun.haoduoke.admin.pc.interceptor.AuthorizeInterceptor"/>
+        </mvc:interceptor>
+    </mvc:interceptors>
+
+</beans>

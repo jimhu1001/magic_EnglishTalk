@@ -1,18 +1,8 @@
-<!--
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans   http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="producerFactory" class="com.bingkun.message.producer.impl.ProducerFactoryImpl" factory-method="getInstance" >
-        <property name="dataSource" ref="bizDataSource"/>
-    </bean>
 
-    <bean id="organizationCreateProducer" factory-bean="producerFactory" factory-method="createProducer" class="com.bingkun.message.producer.Producer">
-        <constructor-arg>
-            &lt;!&ndash;topic&ndash;&gt;
-            <value>hdk-organization-create</value>
-        </constructor-arg>
-    </bean>
 
-</beans>-->
+</beans>

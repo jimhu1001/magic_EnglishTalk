@@ -24,7 +24,7 @@
             <artifactId>jtds</artifactId>
             <version>1.3.1</version>
         </dependency>-->
-        <dependency>
+      <!--  <dependency>
             <groupId>net.sf.dozer</groupId>
             <artifactId>dozer</artifactId>
         </dependency>
@@ -32,7 +32,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <scope>test</scope>
-        </dependency>
+        </dependency>-->
 
        <!-- <dependency>
             <groupId>com.dianping.lion</groupId>
@@ -55,7 +55,7 @@
             <artifactId>zebra-ds-monitor-client</artifactId>
         </dependency>-->
 
-        <dependency>
+      <!--  <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
             <version>4.2.5.RELEASE</version>
@@ -102,10 +102,10 @@
             <artifactId>lombok</artifactId>
             <version>1.14.8</version>
         </dependency>
-       <!-- <dependency>
+       &lt;!&ndash; <dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
-        </dependency>-->
+        </dependency>&ndash;&gt;
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
@@ -119,7 +119,7 @@
             <groupId>com.englishTalkAdmin</groupId>
             <artifactId>englishTalk-admin-service</artifactId>
             <version>1.0-SNAPSHOT</version>
-        </dependency>
+        </dependency>-->
 
 
     </dependencies>
