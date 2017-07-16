@@ -22,16 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="englishTalk-admin-api" />
-        <module name="englishTalk-admin-service" />
-        <module name="englishTalk-book-api" />
-        <module name="englishTalk-book-service" />
-        <module name="englishTalk-job" />
-        <module name="englishTalk-member-api" />
-        <module name="englishTalk-member-service" />
         <module name="englishTalk-pc-web" />
-        <module name="englishTalk-user-api" />
-        <module name="englishTalk-user-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -45,7 +36,7 @@
       <module name="englishTalk-member" target="1.8" />
       <module name="englishTalk-member-api" target="1.8" />
       <module name="englishTalk-member-service" target="1.8" />
-      <module name="englishTalk-pc-web" target="1.8" />
+      <module name="englishTalk-pc-web" target="1.7" />
       <module name="englishTalk-user" target="1.8" />
       <module name="englishTalk-user-api" target="1.8" />
       <module name="englishTalk-user-biz" target="1.8" />

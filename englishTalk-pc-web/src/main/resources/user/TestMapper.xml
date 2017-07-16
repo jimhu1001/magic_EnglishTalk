@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.english.rockGod.pc.web.dao.TestDao">
+
+    <sql id="select_all">
+        SELECT id,sname,fatherId FROM shop
+    </sql>
+
+    <select id="query" resultType="QueryEntity">
+        <include refid="select_all"></include>
+    </select>
+
+
+</mapper>

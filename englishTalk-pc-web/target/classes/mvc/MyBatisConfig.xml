@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE configuration
+    PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+
+
+	<!-- 配置基础设置 -->
+	<settings>
+		<setting name="lazyLoadingEnabled" value="true" />
+		<!-- 1.开启二级缓存（查询缓存） -->
+		<setting name="cacheEnabled" value="true" />
+	</settings>
+
+	<!-- 自定义类型别名 -->
+	<typeAliases>
+		<typeAlias type="com.english.rockGod.pc.web.entity.QueryEntity" alias="QueryEntity" />
+	</typeAliases>
+	<mappers>
+		<mapper resource="user/TestMapper.xml" />
+	</mappers>
+
+</configuration>
