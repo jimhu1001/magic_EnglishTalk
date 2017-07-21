@@ -23,7 +23,6 @@ public class testControler {
 
     @RequestMapping(value = "/check", method = RequestMethod.GET)
     public String exportExcel(HttpServletResponse response) throws Exception {
-        Beans.getBean(TestService.class);
         testService.query();
         return "success!";
     }

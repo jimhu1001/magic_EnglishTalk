@@ -9,12 +9,12 @@
 
     <bean name="userBeanMappingService" class="com.english.rockGod.pc.web.framework.BeanMappingServiceImpl"></bean>
 
-    <!--<bean id="userBeanMapper" class="org.dozer.spring.DozerBeanMapperFactoryBean">
+    <bean id="userBeanMapper" class="org.dozer.spring.DozerBeanMapperFactoryBean">
         <property name="mappingFiles">
             <list>
-                <value>classpath*:english/*.xml</value>
+                <value>classpath*:englishExpand/*.xml</value>
             </list>
         </property>
-    </bean>-->
+    </bean>
     <bean name="userbeans" class="com.english.rockGod.pc.web.util.Beans"></bean>
 </beans>

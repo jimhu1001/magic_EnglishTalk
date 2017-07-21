@@ -105,10 +105,10 @@
   </servlet-mapping>
  <error-page>
     <error-code>404</error-code>
-    <location>/jsp</location>
+    <location>/html/index.html</location>
   </error-page>
 
   <welcome-file-list>
-    <welcome-file>jsp/index.jsp</welcome-file>
+    <welcome-file>html/index.html</welcome-file>
   </welcome-file-list>
 </web-app>

@@ -13,7 +13,7 @@
 	http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd
 	">
 	<import resource="springctx.xml"></import>
-	<!--<import resource="springcontext-core.xml"></import>-->
+	<import resource="springcontext-core.xml"></import>
 	<!-- 启动元注解方式描述组件 -->
 	<context:component-scan base-package="com.english.rockGod.pc.web.service"></context:component-scan>
 	<!-- 启动元注解方式处理请求与响应 -->
