@@ -11,6 +11,4 @@
     <select id="query" resultType="QueryEntity">
         <include refid="select_all"></include>
     </select>
-
-
 </mapper>
