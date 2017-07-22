@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var json = {};
+            /* json["typeid"]=0; */
+            $.ajax({
+                "type" : "POST",
+                "dataType" : "json",
+                "url" : "/test/check.action",
+                "contentType" : "application/json;charset=UTF-8",
+                "data" : JSON.stringify(json),
+                "success" : function(msgVo) {
+                    $.each(msgVo,function(i,vo){
+                        console.info(vo);
+                    })
+                }
+            });
+        })
+    </script>
+</head>
+<body>
+<h2>Hello World! html</h2>
+<a onclick="">123456</a>
+</body>
+</html>

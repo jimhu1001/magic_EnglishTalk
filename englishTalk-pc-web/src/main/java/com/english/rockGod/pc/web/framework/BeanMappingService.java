@@ -1,7 +1,7 @@
 package com.english.rockGod.pc.web.framework;
 
 /**
- * Created by shenyoujun on 15/1/4.
+ * Created by jimHu on 17/7/22.
  */
 public interface BeanMappingService {
 
