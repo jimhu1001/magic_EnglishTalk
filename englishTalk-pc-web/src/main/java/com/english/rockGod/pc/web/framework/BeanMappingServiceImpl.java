@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
 /**
- * Created by shenyoujun on 15/1/4.
+ * Created by jimHu on 17/7/22.
  */
 public class BeanMappingServiceImpl implements BeanMappingService {
 
