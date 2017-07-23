@@ -39,91 +39,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e5df9d4-95db-4de0-adf5-caf04d67e376" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/BeansCascadeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Cacheable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Cascade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeAware.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeFactoryConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ContextParams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Entity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/EntityResolverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ExceptionHandlerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptorFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodInvokerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Param.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParamResolverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParameterResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParameterResolverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/PropsPickerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Reducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SpringContextCascadeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Util.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/AjaxBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ContextContainer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Field.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Param.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionEnums.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionRangeDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ResultMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Transaction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserPermissionDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/enums/CsAuthority.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-core-asl-1.9.9.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/TestControler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/a.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/a.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/controler/testControler.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/controler/testControler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dao/TestDao.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dao/TestDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/util/Beans.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/util/Beans.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/a.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/a.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/controler/testControler.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/controler/testControler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dao/TestDao.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dao/TestDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/util/Beans.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/util/Beans.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/englishTalk_pc_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/englishTalk_pc_web_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/pom.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springcontext-core.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springcontext-core.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springmvc.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springmvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springcontext-core.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springcontext-core.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springmvc.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springmvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/index.html" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/index.html" />
     </list>
     <ignored path="magic-EnglishTalk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -169,7 +85,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CascadeController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CascadeController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
@@ -199,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Registry.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Registry.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -215,8 +131,8 @@
       <file leaf-file-name="UserContext.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="367">
+              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1640,7 +1556,7 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method>
-        <option name="MakeNoErrorCheck" enabled="true" />
+        <option name="MakeProject" enabled="true" />
       </method>
     </configuration>
     <list size="1">
@@ -1663,15 +1579,15 @@
       <workItem from="1500640859563" duration="12871000" />
       <workItem from="1500724071229" duration="807000" />
       <workItem from="1500726315874" duration="6620000" />
-      <workItem from="1500782376473" duration="23087000" />
+      <workItem from="1500782376473" duration="23199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101484000" />
+    <option name="totallyTimeSpent" value="101596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="1" width="1604" height="866" extended-state="1" />
+    <frame x="-7" y="1" width="1604" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1684,9 +1600,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2344371" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2344371" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2397351" sideWeight="0.49498746" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47682118" sideWeight="0.49498746" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2097,14 +2013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -2215,16 +2123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -2233,6 +2131,24 @@
             <element signature="e#1343#1344#0" expanded="true" />
             <element signature="e#1411#1412#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
