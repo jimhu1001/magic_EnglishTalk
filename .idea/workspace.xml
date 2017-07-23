@@ -39,7 +39,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e5df9d4-95db-4de0-adf5-caf04d67e376" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magic-EnglishTalk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,10 +85,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CascadeController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CascadeController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
+            <state relative-caret-position="242">
               <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
               <folding />
             </state>
@@ -98,7 +98,7 @@
       <file leaf-file-name="RegistryCascadeFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="183">
               <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
@@ -108,18 +108,18 @@
       <file leaf-file-name="SerialReducer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Registry.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Registry.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+            <state relative-caret-position="-1123">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="e#1343#1344#0" expanded="true" />
                 <element signature="e#1411#1412#0" expanded="true" />
@@ -150,16 +150,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="springcontext-core.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -173,11 +163,21 @@
       <file leaf-file-name="CascadePermissionInterceptorFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="292">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContextContainer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ContextContainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1579,16 +1579,16 @@
       <workItem from="1500640859563" duration="12871000" />
       <workItem from="1500724071229" duration="807000" />
       <workItem from="1500726315874" duration="6620000" />
-      <workItem from="1500782376473" duration="23199000" />
+      <workItem from="1500782376473" duration="23817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101596000" />
+    <option name="totallyTimeSpent" value="102214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="1604" height="866" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19179894" sideWeight="0.2650376" order="7" side_tool="true" content_ui="tabs" />
@@ -1600,7 +1600,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2344371" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30993378" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47682118" sideWeight="0.49498746" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1645,12 +1645,6 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java</url>
           <line>34</line>
           <properties />
@@ -1693,18 +1687,6 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java</url>
           <line>68</line>
           <properties />
@@ -1716,11 +1698,29 @@
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="39" />
+      <option name="time" value="52" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1729,14 +1729,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/base/Function.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2175">
@@ -1963,16 +1955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/BeansCascadeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -2001,22 +1983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2089,14 +2055,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ContextContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/AjaxBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-194">
@@ -2123,17 +2081,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
-          <folding>
-            <element signature="e#1343#1344#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
@@ -2146,9 +2093,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="242">
           <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="158" column="13" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ContextContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1123">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
