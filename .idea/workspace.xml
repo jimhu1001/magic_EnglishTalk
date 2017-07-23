@@ -9,22 +9,8 @@
     <list default="true" id="6e5df9d4-95db-4de0-adf5-caf04d67e376" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/META-INF/MANIFEST.MF" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web.war" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-api/englishTalk-admin-api.iml" afterPath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-api/englishTalk-admin-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/englishTalk-admin-service.iml" afterPath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/englishTalk-admin-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin.iml" afterPath="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-book/englishTalk-book-api/englishTalk-book-api.iml" afterPath="$PROJECT_DIR$/englishTalk-book/englishTalk-book-api/englishTalk-book-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-book/englishTalk-book-service/englishTalk-book-service.iml" afterPath="$PROJECT_DIR$/englishTalk-book/englishTalk-book-service/englishTalk-book-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-book/englishTalk-book.iml" afterPath="$PROJECT_DIR$/englishTalk-book/englishTalk-book.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-member/englishTalk-member-api/englishTalk-member-api.iml" afterPath="$PROJECT_DIR$/englishTalk-member/englishTalk-member-api/englishTalk-member-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-member/englishTalk-member-service/englishTalk-member-service.iml" afterPath="$PROJECT_DIR$/englishTalk-member/englishTalk-member-service/englishTalk-member-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-member/englishTalk-member.iml" afterPath="$PROJECT_DIR$/englishTalk-member/englishTalk-member.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-user/englishTalk-user-biz.iml" afterPath="$PROJECT_DIR$/englishTalk-user/englishTalk-user-biz.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/englishTalk-user-service.iml" afterPath="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/englishTalk-user-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magic-EnglishTalk.iml" afterPath="$PROJECT_DIR$/magic-EnglishTalk.iml" />
     </list>
     <ignored path="magic-EnglishTalk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,21 +56,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1025">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MethodParametersResolver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="325">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,31 +68,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="287">
+              <caret line="35" column="67" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserContext.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserContext.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="45">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/pom.xml">
+      <file leaf-file-name="TestControler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/TestControler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="250">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -138,18 +116,6 @@
             <state relative-caret-position="175">
               <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cascade.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Cascade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -191,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/englishTalk-admin/pom.xml" />
         <option value="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/util/BaseDaoUtil.java" />
         <option value="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/util/Beans.java" />
         <option value="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/GroupDataSource.java" />
@@ -241,6 +206,7 @@
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
       </list>
     </option>
@@ -413,6 +379,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1052,16 +1066,16 @@
       <workItem from="1500795959881" duration="2512000" />
       <workItem from="1500813140103" duration="451000" />
       <workItem from="1500813733793" duration="711000" />
-      <workItem from="1500814599303" duration="342000" />
+      <workItem from="1500814599303" duration="883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81704000" />
+    <option name="totallyTimeSpent" value="82245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1604" height="867" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19179894" sideWeight="0.2650376" order="7" side_tool="true" content_ui="tabs" />
@@ -1073,7 +1087,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.63492066" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20238096" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22883599" sideWeight="0.49498746" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1217,16 +1231,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/TestControler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/a.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1282,26 +1286,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1314,10 +1302,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/zip/ZipFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="4375">
+          <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1329,29 +1318,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/zip/ZipFile.java">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/TestControler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4375">
-          <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="287">
+          <caret line="35" column="67" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
