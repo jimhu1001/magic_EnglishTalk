@@ -15,16 +15,42 @@
                 "contentType" : "application/json;charset=UTF-8",
                 "data" : JSON.stringify(json),
                 "success" : function(msgVo) {
-                    $.each(msgVo,function(i,vo){
-                        console.info(vo);
-                    })
+                   alert("");
                 }
             });
-        })
+        });
+
+        function testCascade() {
+            console.info("来了");
+            $(function(){
+                var cascade = [
+                    {
+                        "type":"TestCascade",
+                        "category":"queryByCondition",
+                        "params":{
+                            "id":1020597,
+                            "start":0,
+                            "limit":10
+                        },
+                        "as":"result"
+                    }
+                ];
+                $.ajax({
+                    "type" : "POST",
+                    "dataType" : "json",
+                    "url" : "/cascade/query.action",
+                    "contentType" : "application/json;charset=UTF-8",
+                    "data" : JSON.stringify(cascade),
+                    "success" : function(msgVo) {
+                        alert("");
+                    }
+                });
+            });
+        }
     </script>
 </head>
 <body>
 <h2>Hello World! html</h2>
-<a onclick="">123456</a>
+<button onclick="testCascade();">123456</button>
 </body>
 </html>

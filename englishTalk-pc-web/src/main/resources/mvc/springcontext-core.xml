@@ -17,4 +17,21 @@
         </property>
     </bean>
     <bean name="userbeans" class="com.english.rockGod.pc.web.util.Beans"></bean>
+
+    <bean class="com.english.rockGod.pc.web.cascadeUtil.SpringContextCascadeFactory" id="cascadeFactory" >
+        <constructor-arg index="0">
+            <bean class="com.english.rockGod.pc.web.cascadeUtil.CascadeFactoryConfig">
+                <property name="threadCount" value="1" />
+                <property name="invocationInterceptorFactories">
+                    <list>
+                        <bean class="com.english.rockGod.pc.web.cascadeUtil.CascadePermissionInterceptorFactory" />
+                    </list>
+                </property>
+            </bean>
+        </constructor-arg>
+    </bean>
+
+    <bean id="cascade" factory-bean="cascadeFactory" factory-method="create"  class="com.english.rockGod.pc.web.cascadeUtil.Cascade"/>
+
+
 </beans>

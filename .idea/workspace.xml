@@ -1,24 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="englishTalk-admin-api:war" />
+      <artifact name="englishTalk-admin-api:war exploded" />
+      <artifact name="englishTalk-admin-service:war" />
+      <artifact name="englishTalk-admin-service:war exploded" />
+      <artifact name="englishTalk-admin:war" />
+      <artifact name="englishTalk-admin:war exploded" />
+      <artifact name="englishTalk-book-api:war" />
+      <artifact name="englishTalk-book-api:war exploded" />
+      <artifact name="englishTalk-book-service:war" />
+      <artifact name="englishTalk-book-service:war exploded" />
+      <artifact name="englishTalk-book:war" />
+      <artifact name="englishTalk-book:war exploded" />
+      <artifact name="englishTalk-job:war" />
+      <artifact name="englishTalk-job:war exploded" />
+      <artifact name="englishTalk-member-api:war" />
+      <artifact name="englishTalk-member-api:war exploded" />
+      <artifact name="englishTalk-member-service:war" />
+      <artifact name="englishTalk-member-service:war exploded" />
+      <artifact name="englishTalk-member:war" />
+      <artifact name="englishTalk-member:war exploded" />
+      <artifact name="englishTalk-pc-web:war" />
+      <artifact name="englishTalk-pc-web:war exploded" />
+      <artifact name="englishTalk-user-api:war" />
+      <artifact name="englishTalk-user-api:war exploded" />
+      <artifact name="englishTalk-user-service:war" />
+      <artifact name="englishTalk-user-service:war exploded" />
+      <artifact name="englishTalk-user:war" />
+      <artifact name="englishTalk-user:war exploded" />
+      <artifact name="englishTalk-web:war" />
+      <artifact name="englishTalk-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Util.java" line="11" mnemonic="6" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6e5df9d4-95db-4de0-adf5-caf04d67e376" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/exception/ApplicationException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/js/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/js/jquery-2.2.0.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/html/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/html/index.html" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/BeansCascadeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Cacheable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Cascade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeAware.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeFactoryConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ContextParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Entity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/EntityResolverFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ExceptionHandlerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptorFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodInvokerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Param.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParamResolverFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParameterResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParameterResolverFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/PropsPickerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Reducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SpringContextCascadeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/AjaxBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ContextContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Param.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionEnums.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionRangeDto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ResultMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Transaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserPermissionDto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/enums/CsAuthority.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-core-asl-1.9.9.jar" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/TestControler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/a.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/a.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/controler/testControler.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/controler/testControler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dao/TestDao.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dao/TestDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/util/Beans.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/util/Beans.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/a.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/a.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/controler/testControler.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/controler/testControler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dao/TestDao.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dao/TestDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestService.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/util/Beans.class" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/util/Beans.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/englishTalk_pc_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/englishTalk_pc_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingService.java" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.java" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/pom.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springcontext-core.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springcontext-core.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springmvc.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/mvc/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springcontext-core.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springcontext-core.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springmvc.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/mvc/springmvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/index.html" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/index.html" />
     </list>
     <ignored path="magic-EnglishTalk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,51 +169,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BeanMappingService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingService.java">
+      <file leaf-file-name="CascadeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="179">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeanMappingServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.java">
+      <file leaf-file-name="RegistryCascadeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-54">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="154">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/exception/ApplicationException.java">
+      <file leaf-file-name="SerialReducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="179">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/entity/QueryEntity.java">
+      <file leaf-file-name="Registry.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="378">
+              <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+              <folding>
+                <element signature="e#1343#1344#0" expanded="true" />
+                <element signature="e#1411#1412#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserContext.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeansCascadeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/BeansCascadeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testControler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java">
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            <state relative-caret-position="452">
+              <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springcontext-core.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="26" column="102" selection-start-line="26" selection-start-column="102" selection-end-line="26" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CascadePermissionInterceptorFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,6 +273,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -138,57 +289,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/resources/config/spring.local/appcontext-dao.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/resources/config/spring.local/appcontext-db.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/resources/config/spring.local/appcontext-mq.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-admin/pom.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/util/BaseDaoUtil.java" />
-        <option value="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/util/Beans.java" />
-        <option value="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/GroupDataSource.java" />
-        <option value="$PROJECT_DIR$/englishTalk-user/pom.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/pom.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-admin/englishTalk-admin-service/src/main/java/com/english/rockGod/admin/service/framework/BeanMappingServiceImpl.java" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/framework/BeanMappingServiceImpl.java" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/util/Beans.java" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/dao/ExampleDao.java" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/service/impl/TestServiceImpl.java" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/test/java/com/englishTalk/user/AbstractSpringContextTest.java" />
-        <option value="$PROJECT_DIR$/englishTalk-user/englishTalk-user-service/src/main/java/com/english/rockGod/user/service/entity/TestEntity.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/appcontext-mvc.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/a.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/service/impl/testServiceImpl.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/log4j.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/log4j.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/entity/QueryEntity.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/user/BrushUserCacheMapper.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/service/impl/testService.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dao/TestDap.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/service/impl/TestService.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/util/Beans.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/MyBatisConfig.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/service/impl/TestServiceImpl.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/appcontext-inter.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/pom.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/englishExpand/mapping-user.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/html/index.html" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springctx.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/BeansCascadeFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/Reducer.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/ContextParams.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeFactoryConfig.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/ParameterResolverFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/InvocationInterceptorFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/InvocationHandler.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/InvocationInterceptor.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/Param.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/ParamResolverFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/EntityResolverFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/Entity.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/MethodInvokerFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/Cacheable.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CacheableFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/PropsPickerFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/ExceptionHandlerFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/Util.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/ParallelReducer.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/RegistryCascadeFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/SerialReducer.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/ParameterResolver.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/MethodParametersResolver.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/SpringContextCascadeFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/Registry.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionEnums.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/enums/CsAuthority.java" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ContextContainer.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadePermissionInterceptorFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/pom.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Message.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Transaction.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CatInterceptorFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/casecadeUtil/ContextParams.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/casecadeUtil/Util.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SpringContextCascadeFactory.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Param.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/TestCascade.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/TestCascade1.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade1.java" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/context/ContextHandler.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/context/ContextContainer.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ResultMap.java" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionRangeDto.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserDto.java" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserPermissionDto.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/exception/ApplicationException.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingService.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.java" />
-        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/context/UserContext.java" />
+        <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java" />
       </list>
     </option>
   </component>
@@ -224,8 +375,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
+    <option name="y" value="1" />
     <option name="width" value="1604" />
-    <option name="height" value="867" />
+    <option name="height" value="866" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -277,6 +429,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -681,7 +835,75 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="enums" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -753,43 +975,112 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascadeUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magic-EnglishTalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="englishTalk-pc-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2735632" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\java\com\english\rockGod\pc\web\dto\context" />
-      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\webapp\js" />
-      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\resources\englishExpand" />
-      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\resources\mvc" />
-      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\webapp\WEB-INF" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.english.rockGod.pc.web.dto" />
-      <recent name="com.english.rockGod.pc.web.util" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\webapp" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\webapp\WEB-INF" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\webapp\WEB-INF\jsp" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-member" />
       <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-book" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.english.rockGod.pc.web.cascade" />
+      <recent name="com.english.rockGod.pc.web.dto" />
+      <recent name="com.english.rockGod.pc.web.enums" />
+      <recent name="com.english.rockGod.pc.web.dao" />
+      <recent name="com.english.rockGod.pc.web.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\java\com\english\rockGod\pc\web\cascade" />
+      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\java\com\english\rockGod\pc\web\dto\context" />
+      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\webapp\js" />
+      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\resources\englishExpand" />
+      <recent name="C:\Users\Administrator\IdeaProjects\magic-EnglishTalk\englishTalk-pc-web\src\main\resources\mvc" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.web">
@@ -917,10 +1208,10 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -1283,6 +1574,7 @@
       <method />
     </configuration>
     <configuration default="false" name="web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <deployment>
         <artifact name="englishTalk-pc-web:war exploded">
           <settings>
@@ -1348,9 +1640,7 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="englishTalk-pc-web:war exploded" />
-        </option>
+        <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
     <list size="1">
@@ -1372,15 +1662,16 @@
       <workItem from="1500126637967" duration="27640000" />
       <workItem from="1500640859563" duration="12871000" />
       <workItem from="1500724071229" duration="807000" />
-      <workItem from="1500726315874" duration="3770000" />
+      <workItem from="1500726315874" duration="6620000" />
+      <workItem from="1500782376473" duration="23087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75547000" />
+    <option name="totallyTimeSpent" value="101484000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1604" height="867" extended-state="0" />
+    <frame x="-7" y="1" width="1604" height="866" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1393,20 +1684,21 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16137566" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2344371" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22883599" sideWeight="0.49498746" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2397351" sideWeight="0.49498746" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42913908" sideWeight="0.49498746" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1414,7 +1706,6 @@
       <window_info id="BPMN Editor" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21045752" sideWeight="0.49498746" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1438,16 +1729,82 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java</url>
-          <line>31</line>
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java</url>
+          <line>32</line>
           <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="16" />
+      <option name="time" value="39" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1456,297 +1813,116 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/net/DualStackPlainSocketImpl.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/base/Function.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="284" column="27" selection-start-line="284" selection-start-column="27" selection-end-line="284" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/log/log4j.xml" />
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/target/maven-archiver/pom.properties" />
-    <entry file="file://$PROJECT_DIR$/englishTalk-user/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-member/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/WEB-INF/log4j.properties" />
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar!/javax/validation/Validation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/GenericServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.jar!/org/springframework/web/filter/HttpPutFormContentFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="54" column="28" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6450">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/user/MenuMapper.xml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.3/mybatis-spring-1.2.3.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/log4j.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dao/TestDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="175">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/user/TestMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.9.RELEASE/spring-beans-4.0.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="459" column="0" selection-start-line="459" selection-start-column="0" selection-end-line="459" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/appcontext-inter.xml" />
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/MyBatisConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/jsp/index.jsp">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="2175">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.jar!/org/springframework/web/servlet/view/UrlBasedViewResolver.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/collect/Lists.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="135" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/englishExpand/mapping-user.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="2550">
+          <caret line="146" column="33" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.jar!/org/springframework/web/servlet/view/InternalResourceView.class">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.9.RELEASE/spring-beans-4.0.9.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        <state relative-caret-position="113">
+          <caret line="475" column="0" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.jar!/org/springframework/web/servlet/view/freemarker/FreeMarkerConfigurer.class">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/enums/CsAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CatInterceptorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ContextParams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="175">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/com/sun/jmx/interceptor/DefaultMBeanServerInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="818" column="0" selection-start-line="818" selection-start-column="0" selection-end-line="818" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springctx.xml">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="74">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="-125">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/js/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Cacheable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="103" column="18" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="18" />
+        <state relative-caret-position="125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeAware.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="291" column="37" selection-start-line="291" selection-start-column="19" selection-end-line="291" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-          <folding>
-            <element signature="e#1598#1599#0" expanded="false" />
-            <element signature="e#1628#1629#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/util/Beans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/service/impl/TestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/service/impl/TestServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/context/ContextContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/testControler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/exception/ApplicationException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1754,56 +1930,309 @@
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/entity/QueryEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="24" />
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/controler/TestControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/ParamResolverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Param.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Cascade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/TestCascade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/TestCascade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SpringContextCascadeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadeFactoryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1976">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/mvc/springcontext-core.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="26" column="102" selection-start-line="26" selection-start-column="102" selection-end-line="26" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/BeansCascadeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascade/CascadeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="336" column="46" selection-start-line="336" selection-start-column="46" selection-end-line="336" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ResultMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionRangeDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Param.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/ContextContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/AjaxBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserPermissionDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserDto.java">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="361">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/PermissionRangeDto.java">
+    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/Registry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/context/UserContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/context/ContextHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="378">
+          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+          <folding>
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1853,7 +2282,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2735632" />
               </list>
             </option>
           </splitter-proportions>

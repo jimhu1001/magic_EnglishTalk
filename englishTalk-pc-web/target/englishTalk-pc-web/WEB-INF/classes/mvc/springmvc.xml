@@ -53,6 +53,6 @@
 	<mvc:annotation-driven />
 	<!-- 处理器 -->
 	<context:component-scan base-package="com.english.rockGod.pc.web.controler"/>
-
+	<context:component-scan base-package="com.english.rockGod.pc.web.cascade"/>
 
 </beans>
