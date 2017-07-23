@@ -7,239 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e5df9d4-95db-4de0-adf5-caf04d67e376" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascade/CascadeController$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascade/CascadeController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascade/TestCascade.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascade/TestCascade1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/BeansCascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Cacheable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Cascade.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/CascadeAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/CascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/CascadeFactoryConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ContextParams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Entity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/EntityResolverFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/EntityResolverFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ExceptionHandlerFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ExceptionHandlerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/InvocationHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptorFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/MethodInvokerFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/MethodInvokerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$CollectionCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$CompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$FieldRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$FieldsRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$ListCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$ListResultsRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$MapCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$RootCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Param.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParamResolverFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParamResolverFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParameterResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/ParameterResolverFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/PropsPickerFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/PropsPickerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Reducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Registry$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Registry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/SerialReducer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/SpringContextCascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/cascadeUtil/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/controler/testControler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dao/TestDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/AjaxBase$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/AjaxBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/ContextContainer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/Field.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/Message.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/Param.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/PermissionEnums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/PermissionRangeDto$PermissionRangeDtoBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/PermissionRangeDto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/ResultMap$ResultMapBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/ResultMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/Transaction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/UserContext$UserContextBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/UserContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/UserPermissionDto$UserPermissionDtoBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/dto/UserPermissionDto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/enums/CsAuthority.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/com/english/rockGod/pc/web/util/Beans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascade/CascadeController$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascade/CascadeController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascade/TestCascade.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascade/TestCascade1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/BeansCascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Cacheable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/CacheableFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Cascade.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/CascadeAware.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/CascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/CascadeFactoryConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/CascadePermissionInterceptorFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ContextParams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Entity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/EntityResolverFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/EntityResolverFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ExceptionHandlerFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ExceptionHandlerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/InvocationHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/InvocationInterceptorFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/MethodInvokerFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/MethodInvokerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$CollectionCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$CompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$FieldRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$FieldsRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$ListCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$ListResultsRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$MapCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer$RootCompleteNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParallelReducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Param.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParamResolverFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParamResolverFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParameterResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/ParameterResolverFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/PropsPickerFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/PropsPickerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Reducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Registry$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Registry$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Registry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/RegistryCascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/SerialReducer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/SerialReducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/SpringContextCascadeFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/cascadeUtil/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/controler/testControler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dao/TestDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/AjaxBase$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/AjaxBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/ContextContainer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/Field.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/Message.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/Param.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/PermissionEnums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/PermissionRangeDto$PermissionRangeDtoBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/PermissionRangeDto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/ResultMap$ResultMapBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/ResultMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/Transaction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/UserContext$UserContextBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/UserContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/UserPermissionDto$UserPermissionDtoBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/dto/UserPermissionDto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity$QueryEntityBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/entity/QueryEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/enums/CsAuthority.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/exception/ApplicationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/service/impl/TestServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/com/english/rockGod/pc/web/util/Beans.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activation-1.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activation-1.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-bpmn-converter-5.15.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-bpmn-converter-5.15.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-bpmn-model-5.15.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-bpmn-model-5.15.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-engine-5.15.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-engine-5.15.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-process-validation-5.15.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-process-validation-5.15.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-spring-5.15.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/activiti-spring-5.15.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/asm-3.3.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/asm-3.3.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/aspectjrt-1.6.12.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/aspectjrt-1.6.12.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/aspectjweaver-1.6.12.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/aspectjweaver-1.6.12.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/c3p0-0.9.1.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/c3p0-0.9.1.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/cglib-2.2.2.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/cglib-2.2.2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-codec-1.5.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-codec-1.5.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-dbcp-1.4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-email-1.2.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-email-1.2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-io-2.5.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-io-2.5.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-lang-2.4.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-lang-2.4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-lang3-3.2.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-lang3-3.2.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-pool-1.5.4.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/commons-pool-1.5.4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/dom4j-1.6.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/dozer-5.2.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/dozer-5.2.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/easypoi-annotation-2.3.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/easypoi-annotation-2.3.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/easypoi-base-2.3.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/easypoi-base-2.3.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/gson-2.8.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/gson-2.8.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/guava-18.0.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/guava-18.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/h2-1.4.193.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/h2-1.4.193.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-annotations-2.7.3.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-annotations-2.7.3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-core-2.7.3.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-core-2.7.3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-core-asl-1.9.13.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-databind-2.7.3.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-databind-2.7.3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-xc-1.9.13.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jackson-xc-1.9.13.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/joda-time-2.6.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/joda-time-2.6.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jstl-1.2.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/log4j-1.2.17.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/log4j-1.2.17.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/lombok-1.16.6.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/lombok-1.16.6.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mail-1.4.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mail-1.4.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mybatis-3.2.8.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mybatis-3.2.8.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mybatis-spring-1.2.3.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mybatis-spring-1.2.3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mysql-connector-java-5.1.34.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/mysql-connector-java-5.1.34.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/poi-3.10-FINAL.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/poi-3.10-FINAL.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/poi-ooxml-3.10-FINAL.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/poi-ooxml-3.10-FINAL.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/poi-ooxml-schemas-3.10-FINAL.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/poi-ooxml-schemas-3.10-FINAL.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/quartz-2.2.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/quartz-2.2.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/slf4j-api-1.7.21.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/slf4j-api-1.7.21.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-aop-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-aop-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-beans-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-beans-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-context-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-context-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-core-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-core-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-expression-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-expression-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-jdbc-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-jdbc-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-orm-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-orm-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-test-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-test-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-tx-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-tx-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-web-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-web-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-webmvc-4.0.9.RELEASE.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/spring-webmvc-4.0.9.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/stax-api-1.0.1.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/stax-api-1.0.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/xml-apis-1.0.b2.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/xml-apis-1.0.b2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/xmlbeans-2.3.0.jar" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/lib/xmlbeans-2.3.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/englishTalk-pc-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/user/TestMapper.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/src/main/resources/user/TestMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/user/TestMapper.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/classes/user/TestMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/user/TestMapper.xml" afterPath="$PROJECT_DIR$/englishTalk-pc-web/target/englishTalk-pc-web/WEB-INF/classes/user/TestMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magic-EnglishTalk.iml" afterPath="$PROJECT_DIR$/magic-EnglishTalk.iml" />
     </list>
     <ignored path="magic-EnglishTalk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -285,11 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="200">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -305,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MethodParametersResolver.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MethodParametersResolver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-400">
@@ -453,8 +221,8 @@
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/framework/BeanMappingServiceImpl.java" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/context/UserContext.java" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/cascadeUtil/MethodParametersResolver.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -1234,16 +1002,16 @@
       <workItem from="1500739002452" duration="182000" />
       <workItem from="1500795959881" duration="2512000" />
       <workItem from="1500813140103" duration="451000" />
-      <workItem from="1500813733793" duration="711000" />
+      <workItem from="1500813733793" duration="784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81362000" />
+    <option name="totallyTimeSpent" value="81435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1604" height="867" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19179894" sideWeight="0.2650376" order="7" side_tool="true" content_ui="tabs" />
@@ -1255,7 +1023,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28703704" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28703704" sideWeight="0.7349624" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22883599" sideWeight="0.49498746" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1466,14 +1234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/englishTalk-pc-web/src/main/java/com/english/rockGod/pc/web/dto/UserContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1521,6 +1281,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
