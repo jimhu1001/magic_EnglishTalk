@@ -5,9 +5,11 @@
     <title>Title</title>
     <script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
     <script type="text/javascript">
-        $(function(){
+        function testPython() {$(function(){
             var json = {};
-            /* json["typeid"]=0; */
+            console.info(document.getElementsByName("url").value);
+             json["url"]=document.getElementsByName("url");
+             console.info(json.value);
             $.ajax({
                 "type" : "POST",
                 "dataType" : "json",
@@ -15,10 +17,11 @@
                 "contentType" : "application/json;charset=UTF-8",
                 "data" : JSON.stringify(json),
                 "success" : function(msgVo) {
-                   alert("");
+                   alert(msgVo.msg);
+                    alert(msgVo.data);
                 }
             });
-        });
+        })};
 
         function testCascade() {
             console.info("来了");
@@ -52,5 +55,8 @@
 <body>
 <h2>Hello World! html</h2>
 <button onclick="testCascade();">123456</button>
+<button  onclick="testPython();">测试爬虫</button>嗄s'd'ka's'd'k'l
+<input name="url" about="测试" value="http://baidu.com">
+<a href="https://m.kuaidi100.com/" target="_blank">快递查询</a>
 </body>
 </html>

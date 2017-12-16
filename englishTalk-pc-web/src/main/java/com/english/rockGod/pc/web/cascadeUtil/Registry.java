@@ -24,7 +24,7 @@ public class Registry {
         this.invocationHandler = new InvocationHandler() {
             public Object invoke(Field field, ContextParams contextParams) {
                 String mapKey = Registry.this.getKey(field.getType(), field.getCategory());
-                InvocationHandler invocationHandler = (InvocationHandler)Registry.this.invocationHandlerMap.get(mapKey);
+                InvocationHandler invocationHandler = Registry.this.invocationHandlerMap.get(mapKey);
                 if(invocationHandler == null) {
                     throw new RuntimeException(mapKey + " has not registered");
                 } else {
@@ -109,11 +109,10 @@ public class Registry {
     }
 
     private InvocationHandler buildInvocationHandler(List<InvocationInterceptor> interceptors) {
-        final InvocationHandler last = null;
+         final InvocationHandler last = null;
 
-       /* final InvocationInterceptor interceptor;
-        for(Iterator var3 = interceptors.iterator(); var3.hasNext();last= new InvocationHandler()
-        {
+        final InvocationInterceptor interceptor;
+        /*for(Iterator var3 = interceptors.iterator(); var3.hasNext(); last = new InvocationHandler() {
             public Object invoke(Field field, ContextParams contextParams) {
                 return interceptor.invoke(last, field, contextParams);
             }

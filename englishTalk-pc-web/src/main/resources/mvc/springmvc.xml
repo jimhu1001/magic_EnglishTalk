@@ -55,4 +55,12 @@
 	<context:component-scan base-package="com.english.rockGod.pc.web.controler"/>
 	<context:component-scan base-package="com.english.rockGod.pc.web.cascade"/>
 
+	<mvc:interceptors>
+		<mvc:interceptor>
+			<mvc:mapping path="/**"/>
+			<mvc:exclude-mapping path="/lib/**"/>
+			<mvc:exclude-mapping path="/heartbeat"/>
+			<bean class="com.english.rockGod.pc.web.authorizeInterceptors.AuthorizeInterceptor"/>
+		</mvc:interceptor>
+	</mvc:interceptors>
 </beans>
