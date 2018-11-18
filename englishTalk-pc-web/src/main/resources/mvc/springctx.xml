@@ -19,9 +19,9 @@
 		destroy-method="close">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url"
-			value="jdbc:mysql://localhost:3306/test?useUnicode=true&amp;characterEncoding=UTF-8&amp;allowMultiQueries=true" />
+			value="jdbc:mysql://192.168.11.20:3306/test?useUnicode=true&amp;characterEncoding=UTF-8&amp;allowMultiQueries=true" />
 		<property name="username" value="root" />
-		<property name="password" value="root" />
+		<property name="password" value="JimHu1001@hotmail.com" />
 		<property name="initialSize" value="1" />
 		<property name="maxActive" value="60" />
 		<property name="minIdle" value="1" />
